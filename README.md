@@ -7,7 +7,7 @@ Um desenvolvedor web apaixonado por tecnologia, buscando transformar sonhos em r
 const express = require('express')
 const app = express()
 
-const webDeveloper = {name:"Adryann", stack:"Full-Stack-Developer"}
+const webDeveloper = {name:"Adryann", stack:"Desenvolvedor-Web"}
 
 app.get('/', (req, res) =>{
   return res.send(webDeveloper)
