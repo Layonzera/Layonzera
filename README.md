@@ -40,10 +40,7 @@ app.listen(3000, () =>{
   <a target="_blank" href="https://www.instagram.com/layonzera/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  <a target="_blank" href="mailto:adryann.layon10@hotmail.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
+  <a target="_blank" href="mailto:adryann.layon7@gmail.com" alt="gmail">
+  <img src="https://img.shields.io/badge/-Gmail-db3d3d?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 <br>
-
-  
-![Snake animation](https://github.com/Layonzera/Layonzera/blob/output/github-contribution-grid-snake.svg)
