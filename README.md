@@ -7,7 +7,7 @@ Um desenvolvedor web apaixonado por tecnologia, buscando transformar sonhos em r
 const express = require('express')
 const app = express()
 
-const webDeveloper = {name:"Adryann", stack:"Desenvolvedor-Web"}
+const webDeveloper = {name:"Adryann Layon", stack:"Frontend Developer"}
 
 app.get('/', (req, res) =>{
   return res.send(webDeveloper)
@@ -25,8 +25,6 @@ app.listen(3000, () =>{
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40" align="center"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="40" align="center"/>
 
 </div><br>
   <a href="https://github.com/Gurupreet">
