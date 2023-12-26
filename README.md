@@ -1,46 +1,43 @@
-## Olá! Me chamo Adryann Layon!
-Um desenvolvedor web apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## 🚀 About Me
 
-```javascript
-const express = require('express')
-const app = express()
+😄 I am Adryann Layon, a **Full stack Web Developer** with focus on the Front-end. I love to solve problems and the feeling to overcome a hard task.
 
-const webDeveloper = {name:"Adryann Layon", stack:"Frontend Developer"}
+👨‍💻 I enjoy to learn new technologies and work in my own projects.
 
-app.get('/', (req, res) =>{
-  return res.send(webDeveloper)
-}),
+😋 I enjoy hanging out with my friends, eat lots of junk food, play video games and play soccer.
 
-app.listen(3000, () =>{
-  console.log("Initing code...")
-})
+📚 I am always trying to improve my knowledge and go deeper in the concepts. For me the most valuable skill a programmer must have is to know how to search
+and to know the time to ask for help.
 
-```
+### Technologies and Tools
 
-  ## **Linguagens e Ferramentas:**
-  
-  <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="40" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+          
+### Contacts
 
-</div><br>
-  <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layonzera&theme=dracula&hide_langs_below=1" />
-</a>
-
-## **Vamos nos Conectar:**
-
-<p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/adryann-layon-ab789b1b9/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  <a target="_blank" href="https://www.instagram.com/layonzera/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
+<a href = "mailto:adryann.layon7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adryannlayon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
  
-  <a target="_blank" href="mailto:adryann.layon7@gmail.com" alt="gmail">
-  <img src="https://img.shields.io/badge/-Gmail-db3d3d?style=for-the-badge&logo=gmail&logoColor=white"</a>
-</p>
-<br>
+ <br/>
+ 
+<div>
+<a href="https://github.com/Layonzera">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layonzera&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Layonzera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>         
+          
+          
+          
+          
+          
+          
+
+          
+                    
+
+
+![Snake animation](https://github.com/Layonzera/Layonzera/blob/output/github-contribution-grid-snake.svg)
